@@ -3,9 +3,9 @@ trigger:
 
 strategy:
  matrix:
-    linux:
-     operantingSystem: 'ubuntu-latest'
-    mac:
+  linux:
+     operatingSystem: 'ubuntu-latest'
+  mac:
      operatingSystem: 'macos-latest'
 
 
